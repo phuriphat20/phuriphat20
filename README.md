@@ -4,10 +4,10 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.facebook.com/phuriphat.nokkhumthong/">
+  <a href="https://www.facebook.com/phuriphat.nokkhumthong">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="https://www.instagram.com/p_prp.z_20/">
+  <a href="https://www.instagram.com/p_prp.z_20">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="your-twitter-URL">
